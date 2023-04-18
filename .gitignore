@@ -1,0 +1,17 @@
+venv/*
+venv/
+venv
+.env
+env
+env/
+env/*
+__pycache__
+/__pycache__
+*/__pycache__/
+*/__pycache__/*
+db.sqlite3
+.DS_Store
+/.DS_Store
+*/.DS_Store
+*/.DS_Store/*
+.vscode
